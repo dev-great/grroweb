@@ -218,6 +218,15 @@ nav li a:hover {
 }
 
 @media (max-width: 914px) {
+
+h1{
+    font-style: normal;
+    font-weight: 900;
+    line-height: 50%;
+    font-size: 7.575rem;
+    font-family: 'DTGetaiGrotes';
+    color: #003356;  
+}
   .top-nav{
     display: block;
   }

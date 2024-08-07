@@ -118,12 +118,18 @@ header {
   background-color: #fff; /* Set a background color to prevent content from showing through */
   z-index: 1000; /* Ensure it stays above other content */
 }
+.top-nav {
+  display: flex; /* Use flexbox for layout if needed */
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Space out items */
+  padding: 0 20px; /* Add some padding */
+}
 nav{
     background-color: transparent;
     color: #1A0F28;
-    padding-top: 5rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
+/*     padding-top: 5rem; */
+/*     padding-left: 10rem;
+    padding-right: 10rem; */
 }
 
 .nav-logo{

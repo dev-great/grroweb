@@ -361,6 +361,9 @@ padding: 1rem;
   font-size: 4rem;
   font-family: 'DTGetaiGrotes';
 }
+.hero-contect {
+  padding-top: 2rem;
+}
 .hero-contect span{
   font-size: 1.2rem;
   padding-left: 1rem;
